@@ -6,15 +6,13 @@ author_profile: true
 ---
 
 
-<h2>2021 (× 9)</h2>
-
-<div> <em>Sequential Weakly Labeled Multi-Activity Recognition and Location on Wearable Sensors using Recurrent Attention Network.</em><br />
+1. <div> <em>Sequential Weakly Labeled Multi-Activity Recognition and Location on Wearable Sensors using Recurrent Attention Network.</em><br />
 Wang, K, He J, and <strong>Zhang L*</strong>.<br />
 <strong>IEEE Transactions on Human-Machine Systems</strong>, Vol.51, No.4, 355-364, 2021. (SCI, Graduate student first author, Corresponding author) 
 [ <a href=''>bib</a> ]<br />
 <div class="spanner"></div>
 <br>
-<div> <em>Shallow Convolutional Neural Networks for Human Activity Recognition using Wearable Sensors.</em><br />
+2. <div> <em>Shallow Convolutional Neural Networks for Human Activity Recognition using Wearable Sensors.</em><br />
 Huang W, <strong>Zhang L*</strong>, Gao W, Min F, He J,.<br />
 <strong>IEEE Transactions on Instrumentation and Measurement</strong>, Early Access, 2021. (SCI, Graduate student first author, Corresponding author)
 [ <a href=''>bib</a> ]<br />
